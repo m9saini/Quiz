@@ -1,0 +1,14 @@
+{
+    "name": "StaticPages",
+    "alias": "staticpages",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\StaticPages\\Providers\\StaticPagesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

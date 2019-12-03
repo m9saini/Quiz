@@ -1,0 +1,18 @@
+form .error {
+    color: #dd4b39 !important;
+}
+.form-group.has-error label {
+    color: #dd4b39 !important;
+}
+.fa-passwd-reset > .fa-lock {
+  font-size: 0.85rem;
+}
+.faundo-admin {
+    font-size: 30px !important;
+}
+.export_filter{width: 63%;
+float: right;}
+.admin-loginlogo{margin-top: 0px;}
+.admin-login-title{padding-bottom: 0px !important;}
+#data_filter{width: 100% !important;}
+

@@ -1,0 +1,9 @@
+<tr>
+    <td>{{ucfirst($user->name)}}</td>
+    <td>{{$user->username}}</td>
+    <td>{{ucfirst($user->roles[0]->name)}}</td>
+    <td>{{$user->email}}</td>
+    <td>{{$user->phone}}</td>
+    <td>{{$user->status}}</td>
+    <td>{{$user->created_at}}</td>
+</tr>
