@@ -32,7 +32,7 @@
         "font-awesome": "^4.7.0",
         "ionicons": "^2.0.1",
         "jquery-colorbox": "^1.6.4",
-        "jquery-validation": "^1.19.1",
+        "jquery-validation": "^1.19.4",
         "lobibox": "^1.2.7"
     }
 }
